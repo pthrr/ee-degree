@@ -4,3 +4,5 @@ Rough idea what a modern electrical engineering curriculum from first principles
 ## curriculum
 #### Section 1: White magic
 #### Section 2: Black magic
+#### Section 3:
+#### Section 4:
